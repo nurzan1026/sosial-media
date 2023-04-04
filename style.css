@@ -18,7 +18,6 @@ body {
 }
 
 .profile {
-  margin-top: 5rem;
   width: 200px;
   height: 200px;
   border-radius: 50%;
@@ -101,6 +100,7 @@ body {
   .profile {
     width: 150px;
     height: 150px;
+    margin-top: 2vh;
   }
 
   .social-media-box {
@@ -122,10 +122,12 @@ body {
   .profile {
     width: 120px;
     height: 120px;
+    margin-top: 20vh;
   }
 
   .social-media-box {
     width: 300px;
+    border: none;
   }
 
   .social-media-box li {
