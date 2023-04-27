@@ -27,7 +27,7 @@ socialMediaElems.forEach((elem) => {
         elem.style.transform = '';
         elem.style.transition = '';
         elem.style.boxShadow = '';
-      }, 300);
+      }, 2);
     }
   });
 });
