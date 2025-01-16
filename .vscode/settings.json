@@ -1,49 +1,9 @@
 {
   "window.zoomLevel": 0.1,
   "editor.fontSize": 16,
-  "workbench.colorTheme": "One Dark Pro Darker"
-  /*
-  // setting style untuk warna pada html dan css
-  "editor.tokenColorCustomizations": {
-    "textMateRules": [
-      // merubah warna penutup dan pembuka tag html
-      {
-        "name": "HTML Tag Delimiters",
-        "scope": [
-          "punctuation.definition.tag.begin",
-          "punctuation.definition.tag.end"
-        ],
-        "settings": {
-          "foreground": "#99f6e4"
-        }
-      },
-      // merubah warna nama tag pada html
-      {
-        "name": "HTML Tag Names",
-        "scope": "entity.name.tag",
-        "settings": {
-          "foreground": "#fb7185"
-        }
-      },
-      // merubah warna properti pada css
-      {
-        "name": "CSS Properties",
-        "scope": "support.type.property-name.css",
-        "settings": {
-          "foreground": "#94a3b8"
-        }
-      },
-      // merubah warna value pada css
-      {
-        "name": "CSS Property Values",
-        "scope": [
-          "support.constant.property-value.css",
-          "support.constant.named-color.css"
-        ],
-        "settings": {
-          "foreground": "#14b8a6"
-        }
-      }
-    ]
-  } */
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.fontFamily": "fira code, Consolas, 'Courier New', monospace",
+  "editor.lineHeight": 22,
+  "terminal.integrated.fontSize": 12,
+  "workbench.iconTheme": "material-icon-theme"
 }
